@@ -1,3 +1,8 @@
+[![Latest Stable Version](https://poser.pugx.org/edvlerblog/yii2-accounting/v/stable)](https://packagist.org/packages/edvlerblog/yii2-accounting)
+[![Latest Unstable Version](https://poser.pugx.org/edvlerblog/yii2-accounting/v/unstable)](https://packagist.org/packages/edvlerblog/yii2-accounting)
+
+[![License](https://poser.pugx.org/edvlerblog/yii2-accounting/license)](https://packagist.org/packages/edvlerblog/yii2-accounting)
+
 Installation
 ------------
 
