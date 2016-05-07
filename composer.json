@@ -1,0 +1,26 @@
+{
+    "name": "edvlerblog/yii2-accounting",
+    "description": "Accounting module for Yii2 ",
+    "keywords": ["yii", "accounting"],
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "support": {
+        "issues": "https://github.com/mdmsoft/yii2-admin/issues",
+        "source": "https://github.com/mdmsoft/yii2-admin"
+    },
+    "authors": [
+        {
+            "name": "Matthias Maderer",
+            "email": "edvler@edvler-blog.de"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "yiisoft/yii2": "~2.0.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "edvlerblog\\accounting\\": ""
+        }
+    }
+}
