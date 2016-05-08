@@ -3,7 +3,7 @@
     "description": "Accounting module for Yii2 ",
     "keywords": ["yii", "accounting"],
     "type": "yii2-extension",
-    "license": "GPLv3",
+    "license": "GPL-3.0+",
     "support": {
         "issues": "https://github.com/mdmsoft/yii2-admin/issues",
         "source": "https://github.com/mdmsoft/yii2-admin"
@@ -14,13 +14,13 @@
             "email": "edvler@edvler-blog.de"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "yiisoft/yii2": "~2.0.0",
-        "yiisoft/yii2-bootstrap": "*",
-        "himiklab/yii2-jqgrid-widget": "*",
-        "wbraganca/yii2-dynamicform": "*",
-        "bower-asset/toastr": "~2.1",
+        "yiisoft/yii2-bootstrap": "~2.0.0",
+        "himiklab/yii2-jqgrid-widget": "^1.1.13",
+        "wbraganca/yii2-dynamicform": "^2.0.2",
+        "bower-asset/toastr": "^2.1",
         "extead/yii2-autonumeric": "@dev"
     },
     "autoload": {
