@@ -11,7 +11,8 @@
     "authors": [
         {
             "name": "Matthias Maderer",
-            "email": "edvler@edvler-blog.de"
+            "email": "edvler@edvler-blog.de",
+            "role": "Creator"
         }
     ],
     "minimum-stability": "stable",
@@ -21,7 +22,7 @@
         "himiklab/yii2-jqgrid-widget": "^1.1.13",
         "wbraganca/yii2-dynamicform": "^2.0.2",
         "bower-asset/toastr": "^2.1",
-        "extead/yii2-autonumeric": "@dev"
+        "extead/yii2-autonumeric": "*@dev"
     },
     "autoload": {
         "psr-4": {
