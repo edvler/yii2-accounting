@@ -16,7 +16,14 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "yiisoft/yii2": "~2.0.7"
+        "yiisoft/yii2": "~2.0.0",
+        "yiisoft/yii2-bootstrap": "*",
+        "himiklab/yii2-jqgrid-widget": "*",
+        "wbraganca/yii2-dynamicform": "*",
+        
+        "bower-asset/toastr": "^2.1",
+        
+        "extead/yii2-autonumeric": "@dev"
     },
     "autoload": {
         "psr-4": {
