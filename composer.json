@@ -20,9 +20,7 @@
         "yiisoft/yii2-bootstrap": "*",
         "himiklab/yii2-jqgrid-widget": "*",
         "wbraganca/yii2-dynamicform": "*",
-        
         "bower-asset/toastr": "^2.1",
-        
         "extead/yii2-autonumeric": "@dev"
     },
     "autoload": {
