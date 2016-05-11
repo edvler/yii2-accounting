@@ -22,7 +22,9 @@
         "himiklab/yii2-jqgrid-widget": "^1.1.13",
         "wbraganca/yii2-dynamicform": "^2.0.2",
         "bower-asset/toastr": "^2.1",
-        "extead/yii2-autonumeric": "*@dev"
+        "extead/yii2-autonumeric": "*@dev",
+        "kartik-v/yii2-widget-select2": "^2.0.8",
+        "kartik-v/yii2-widget-datepicker": "^1.3.9"
     },
     "autoload": {
         "psr-4": {

@@ -9,8 +9,14 @@
  * @license https://github.com/edvler/yii2-accounting/LICENSE.md
  * 
  */
+
+use yii\widgets\Pjax;
+use yii\helpers\Html;
 ?>
 
+<?php
+    Pjax::begin();
+?>
 <div class="acc-default-index">
     <h1><?= $this->context->action->uniqueId ?></h1>
     <p>
@@ -23,3 +29,7 @@
         <code><?= __FILE__ ?></code>
     </p>
 </div>
+<?php
+    echo Html::a("Refresh", ['install/index'], ['class' => 'btn btn-lg btn-primary']);
+    Pjax::end();
+?>
